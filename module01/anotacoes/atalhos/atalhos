@@ -1,0 +1,4 @@
+crtl ; para // tudo selecionado
+shift alt seta baixo = copia a linha de cima para baixo automaticamente
+windows shift S, print oq for selecionado
+para abrir prompt de comando windows + R, e digitar "cmd"
