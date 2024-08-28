@@ -1,0 +1,17 @@
+git branch -m master ou main, renomeia 
+
+git commit -m "Teste"
+
+git push -u origin master, 
+
+git add. 
+
+git checkout -b
+
+GIT TAGS: marca pontos no repositorio,
+
+tag anotada = permanente e detalhada, versão X git 
+ex: 
+git tag -a v1.0 
+git push origin
+
